@@ -33,8 +33,8 @@ A modern, responsive Progressive Web Application built with React and TypeScript
 1. Clone the repository:
 
 ```bash
-git clone
-cd weather_pwa
+git clone https://github.com/Rafiqdevhub/Weather-_App_PAW.git
+cd Weather-_App_PAW
 ```
 
 2. Install dependencies:
